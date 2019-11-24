@@ -1,0 +1,18 @@
+.registerButton{
+    margin-top: 20px;
+    background-color: brown;
+    color: white;
+    border: 0px;
+    padding: 5px 10px 5px 10px;
+}
+.form-control{
+    border: 1px solid #9e121f;
+}
+.col-sm-2 {
+    
+    color: brown;
+    font-weight: bold;
+}
+.container{
+    margin-top: 100px;
+}

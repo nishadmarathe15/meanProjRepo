@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myMeanApp';
-}
+
+  register(email,mobno){
+    console.log(email,mobno);
+  }
+    
+  }
+
