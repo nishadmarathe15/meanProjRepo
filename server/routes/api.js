@@ -4,7 +4,7 @@ var router = express.Router();
 var bodyParser = require('body-parser');
 var MongoClient = require('mongodb').MongoClient;
 //var url = "mongodb://localhost:27017/";
-var url = "mongodb+srv://mac:<mac_prod>@cluster0-qxwog.mongodb.net/test?retryWrites=true&w=majority";
+var url = "mongodb+srv://mac:mac_prod@cluster0-qxwog.mongodb.net/test?retryWrites=true&w=majority";
 
 
 
