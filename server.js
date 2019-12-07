@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 
 app.use('/api', api);
 
-app.get('*',(req,res)=> {
+app.get('/',(req,res)=> {
   res.sendFile(path.join(__dirname,'dist/myMeanApp/index.html'));
 }); 
 app.listen(port, function(){
