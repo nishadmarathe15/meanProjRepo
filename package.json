@@ -30,9 +30,7 @@
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26",
-    "express":"*",
-    "body-parser":"*",
-    "bcrypt": "^0.8.5"
+    "express":"*"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.12.0",
